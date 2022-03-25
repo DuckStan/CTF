@@ -1,4 +1,5 @@
 # A script generating key(in int) for the TryHarder task.
+# UPD:TURNS OUT ITS A Knight's tour TASK LMAOOO
 
 ![image](https://user-images.githubusercontent.com/25302752/158431680-a38956a0-8064-4ce3-ab73-351cd332d5f1.png)
 
